@@ -4,8 +4,6 @@
 
 `src/App.js` will contain your application code
 
-`src/config.js` has the API host & key
-
 `src/index.css` has base styles like color variables
 
 ## Available Scripts
